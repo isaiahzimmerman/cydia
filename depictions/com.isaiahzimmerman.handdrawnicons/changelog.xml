@@ -2,5 +2,7 @@
 	<changes>
 		<version>1.0.0-1</version>
 		<change>Initial release</change>
+        <version>1.0.1</version>
+        <change>fixes</change>
 	</changes>
 </changelog>

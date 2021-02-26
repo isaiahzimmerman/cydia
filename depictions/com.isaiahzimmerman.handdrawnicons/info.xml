@@ -1,0 +1,23 @@
+<package>
+	<id>com.isaiahzimmerman.macos10icons</id>
+	<name>macOS 10 icons</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>14.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>we like fortnite</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

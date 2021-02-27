@@ -1,0 +1,29 @@
+Package: com.isaiahzimmerman.handdrawnicons
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Isaiah Zimmerman
+Filename: ./debs/handdrawnicons.deb
+Size: 5528972
+MD5sum: be4f3d526c7a986d4a46280c63759120
+SHA1: 8cebd4c3732d323d205485c39f8adf09d1696968
+SHA256: 9326ab1c776ba4ce7472bbeb0595cacb502f168f8a6e7ee02c93698d85842732
+Section: Themes
+Description: A theme with beautiful icons!
+Author: Isaiah Zimmerman
+Depiction: https://github.com/isaiahzimmerman/cydia/depictions/?p=com.isaiahzimmerman.handdrawnicons
+Name: hand drawn icons
+
+Package: com.isaiahzimmerman.macos10icons
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Isaiah Zimmerman
+Filename: ./debs/macos10icons.deb
+Size: 4306504
+MD5sum: 979cb77a801e448dac78bad7242d2d00
+SHA1: e6c065145db4424b86e8615d70e13a4aeb4cf713
+SHA256: 93a283b46bedf08602148119373ac7c35805f7e66ca2180bfb0e733a74da212d
+Section: Themes
+Description: A theme with beautiful icons!
+Author: Isaiah Zimmerman
+Depiction: https://github.com/isaiahzimmerman/cydia/depictions/?p=com.isaiahzimmerman.macos10icons
+Name: macOS 10.0 icons
